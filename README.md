@@ -1,4 +1,4 @@
-Australia Needs is your comprehensive destination for the latest in news, business insights, culinary delights, health tips, and more, tailored to keep you informed and inspired in Australia.
+[Australia Needs]([url](https://australianeeds.com/)) is your comprehensive destination for the latest in news, business insights, culinary delights, health tips, and more, tailored to keep you informed and inspired in Australia.
 
 <!---
 Australianeeds/Australianeeds is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
